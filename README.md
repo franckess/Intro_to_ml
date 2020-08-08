@@ -12,6 +12,6 @@ In order to recreate our environment, do the following steps:
 1. Download and install `anaconda`
 2. Open `anaconda CMD` in the new folder
 3. Run this `conda env create --file intro_ml.yml`
-4. Run `juopyter notebook`
+4. Run `jupyter notebook`
 
 Have fun :)
